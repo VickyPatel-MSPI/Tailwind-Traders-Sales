@@ -157,6 +157,6 @@ The report consolidates purchases, sales, and country data into an interactive d
 
 **Contributions**
 
-Explore the live Power BI dashboard for interactive visualizations: markdown [Tailwind Traders Sales](https://github.com/VickyPatel-MSPI/Tailwind-Traders-Sales/blob/main/Tailwind%20Traders%20Sales.pbix)
+Explore the Power BI dashboard for interactive visualizations: [Tailwind Traders Sales](https://github.com/VickyPatel-MSPI/Tailwind-Traders-Sales/blob/main/Tailwind%20Traders%20Sales.pbix)
 
 ---
