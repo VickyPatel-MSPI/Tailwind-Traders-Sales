@@ -1,4 +1,8 @@
 **📈Tailwind Traders Power BI Report✅**
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-FF2E00?style=flat&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
 ---
 Here's a README file for your GitHub project, "Tailwind Traders." It provides instructions, explanations, and an overview of the project, including details about the code, tools, and methods used.
 
